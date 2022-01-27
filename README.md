@@ -6,6 +6,8 @@ Just a backup for the Microsoft's ActiveDirectory PowerShell module from Server 
 and the rest of the module files at this path:
 C:\Windows\System32\WindowsPowerShell\v1.0\Modules\ActiveDirectory\
 
+Forked from Nikhil Mittal: https://github.com/samratashok/ADModule
+
 ## Usage
 You can copy this DLL to your machine and use it to enumerate Active Directory without installing RSAT and without having administrative privileges. 
 
